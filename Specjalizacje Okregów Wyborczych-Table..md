@@ -1,4 +1,4 @@
-IDc|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
+ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
 -------------|-------------|-------------|-------------|-------------
 1|Finanse |1|Legnica|12
 2|ZUS|4|Bydgoszcz|12
