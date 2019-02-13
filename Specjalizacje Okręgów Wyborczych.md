@@ -27,8 +27,8 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
 25|Sądownictwo|8|Zielona Góra|12
 26|Środowisko|37|Konin|9
 27|Gospodarka Morska Żegluga Śródlądowa|26|Gdynia|14
-28|Zdrowie|27|Bielsko-Biała|9
-29|NFZ|28|Częstochowa|7
+28|Innowacja w służbie zdrowia|27|Bielsko-Biała|9
+29|NFZ|25|Gdańsk|12
 30|Profilaktyka Leczenie|29|Gliwice|9
 31|Pracownicy służby zdrowia|24|Białystok|14
 32|SMOG|30|Rybnik|9
@@ -36,7 +36,7 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
 34|Przestrzegane Prawa|10|Piotrków Trybunalski|9
 35|Zasady współbyca|34|Elbląg|8
 36|Media Publiczne|2|Wałbrzych|8
-37||25|Gdańsk|12
+37||28|Częstochowa|7
 38||38|Piła|9
 39||35|Olsztyn|10
 40||40|Koszalin|8
