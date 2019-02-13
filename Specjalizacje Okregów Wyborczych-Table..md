@@ -16,12 +16,12 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
 14|Nauka i Szkolnictwo - Kierunki Techniczne.|13|Kraków|14
 15|Obrona Narodowa|14|Nowy Sącz|10
 16|Przedsiębiorczośc i Technologia|15|Tarnów|9
-17|Rodziny, Pracy i Polityki Społecznej|16|Płock|10
+17|Rodzina, Praca i Polityka Społeczna|16|Płock|10
 18|Rolnictwo 1|17|Radom|9
 19|Rolnictwo 2|18|Siedlce|12
 20|Rolnictwo 3|6|Lublin|15
 21|Sport i Turystyka|32|Sosnowiec|9
-22|Spraw Wewnętrzne  i Administracja|21|Opole|12
+22|Sprawy Wewnętrzne  i Administracja|21|Opole|12
 23|Polityka Zagraniczna|22|Krosno|11
 24|Sprawiedliwości|23|Rzeszów|15
 25|Sądownictwo|8|Zielona Góra|12
