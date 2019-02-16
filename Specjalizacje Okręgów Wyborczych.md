@@ -36,8 +36,8 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
 34|Przestrzegane Prawa|10|Piotrków Trybunalski|9
 35|Zasady współbyca|34|Elbląg|8
 36|Media Publiczne|2|Wałbrzych|8
-37||28|Częstochowa|7
-38||38|Piła|9
+37|Spółki skarbu państwa|28|Częstochowa|7
+38|Władza lokalna|38|Piła|9
 39||35|Olsztyn|10
-40||40|Koszalin|8
+40|Kodeks Drogowy|40|Koszalin|8
 41||41|Szczecin|12
