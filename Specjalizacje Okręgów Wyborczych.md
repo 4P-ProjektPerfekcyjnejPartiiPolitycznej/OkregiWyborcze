@@ -26,7 +26,7 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
 24|Sprawiedliwości|23|Rzeszów|15
 25|Sądownictwo|8|Zielona Góra|12
 26|Środowisko|37|Konin|9
-27|Gospodarka Morska Żegluga Śródlądowa|26|Gdynia|14
+27|Gospodarka Morska Żegluga Śródlądowa|40|Koszalin|8
 28|Innowacja w służbie zdrowia|27|Bielsko-Biała|9
 29|NFZ|25|Gdańsk|12
 30|Profilaktyka Leczenie|29|Gliwice|9
@@ -36,8 +36,8 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów
 34|Przestrzegane Prawa|10|Piotrków Trybunalski|9
 35|Zasady współbyca|34|Elbląg|8
 36|Media Publiczne|2|Wałbrzych|8
-37|Spółki skarbu państwa|28|Częstochowa|7
-38|Władza lokalna|38|Piła|9
+37|Spółki skarbu państwa|26|Gdynia|14
+38|Kodeks Drogowy|38|Piła|9
 39||35|Olsztyn|10
-40|Kodeks Drogowy|40|Koszalin|8
+40||28|Częstochowa|7
 41||41|Szczecin|12
