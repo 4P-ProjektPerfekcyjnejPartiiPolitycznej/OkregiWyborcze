@@ -3,6 +3,8 @@ Osoby chętne do kandydowania z tej specjalizacji powinny spełniać poniższe w
 
 **Obowiązkowe:**
 * minimum trzyletnie udokumentowane doświadczenie, powiązane z tematyką okręgu,
+* uczestniczenie w dużych projektach informatycznych najlepiej jako manager projektu lub starszy programista,
+* znajomość metodyk zwinnych,
 * biegłej znajomości pakietu MS Office (w szczególności Excel, Visual Basic dodatkowym atutem),
 * umiejętności porządkowania i prezentowania danych,
 * umiejętności analizy danych oraz wyciągania wniosków na podstawie danych,
@@ -13,4 +15,6 @@ Osoby chętne do kandydowania z tej specjalizacji powinny spełniać poniższe w
 
 **Oczekiwane:**
 * wykształcenia wyższego, powiązane z tematkyką okręgu,
-* znajomość statystyki, baz danych.
+* znajmość nowych technologi,
+* znajomość big data, baz danych (SQL, NoSQL)
+* uczestniczenie w dużych porjektach informatycznych,
