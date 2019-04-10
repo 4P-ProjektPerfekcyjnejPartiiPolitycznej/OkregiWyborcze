@@ -7,7 +7,7 @@ Każdy okręg wyborczy ma konkretną specjalizacja. Z której mogą kandydować 
 W tym celu musimy:
 
 ### Ustanowić wymagania dla kandydatów z poszczególnej specjalizacji. 
-Robimy to analogicznie do wypisywania wymagań dla osób kandydujących do konkretnej pracy. 
+Robimy to analogicznie do wypisywania wymagań dla osób kandydujących do konkretnej pracy. W tym celu uzupełeniamy poniższy plik: 
 
      OkregiWyborcze/Okregi/XXSpecjalizacja/Wymaganie dla Kandydatów.md.
 na przykład dla okręgu ze specjalizacją Edukacja Narodowa uzupełniamy ten plik:
