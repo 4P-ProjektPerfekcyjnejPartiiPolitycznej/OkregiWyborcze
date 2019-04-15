@@ -4,8 +4,8 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status
 2|ZUS|4|Bydgoszcz|12|Zatwierdzony
 3|Budżet Polski|3|Wrocław|14|Zatwierdzony
 4|Podatki|36|Kalisz|12|Zatwierdzony
-5|Cyfryzacji 1|5|Toruń|13|Zatwierdzony
-6|Cyfryzacji 2|39|Poznań|10|Zatwierdzony
+5|VAT|5|Toruń|13|Zatwierdzony
+6|Cyfryzacja|39|Poznań|10|Zatwierdzony
 7|Edukacja Narodowa|19|Warszawa Miasto|20|Zatwierdzony
 8|Energetyka|7|Chełm|12|Zatwierdzony
 9|Górnictwo|31|Katowice|12|Zatwierdzony
