@@ -16,9 +16,8 @@ na przykład dla okręgu ze specjalizacją Edukacja Narodowa uzupełniamy ten pl
 
 
 ### Znaleźć Rekrutera.
-Potrzebna jest najlepiej profesjonalna agencja pracy, albo organizacja pozarządowa  zajmująca sią tematyką okręgu która zwerefikuje czy kandydaci rzeczywiście spełniaja wymagania. 
-Rekruter nie ma prawa oceniać poglądów kandydata, tylko jego wiedzę. To czy jest lewicowy czy prawicowy nie jest brane pod uwagę.
-Robimy to w pliku:
+Potrzebna jest werefikuje czy kandydaci rzeczywiście spełniaja wymagania. Proces ten musi być apolityczny i sprawiedliwy.
+Dlatego potrzebna jest profesjonalna agencja rekrutacyjna, albo organizacja pozarządowa  zajmująca sią tematyką okręgu. Rekruter nie ma prawa oceniać poglądów kandydata, tylko jego wiedzę. To czy jest lewicowy czy prawicowy nie jest brane pod uwagę. Najlepiej jeśli będziemy mieli minimum dwie niezależne organizacje na jeden okręg wyborczy.Robimy to w pliku:
 
      OkregiWyborcze/Okregi/XXSpecjalizacja/Rekrutacja.md
      
@@ -59,7 +58,10 @@ Propozycje zadań podajemy w pliku:
      
 na przykład:
 
-   OkregiWyborcze/Okregi/07EdukacjNarodowa/Zadania.md
+    OkregiWyborcze/Okregi/07EdukacjNarodowa/Zadania.md
+   
+Przy edytowaniu tego pliku nie usuwamy zadań dodanych przez innych użytkowników.
+Jeśli ktoś poświęcił swój czas i dodał zadanie, to jest to dla niego ważne. Zadanie to zostanie przekazane dla przyszłych posłów i to oni będą musieli ocenić jego słuszność.
 
  
 
