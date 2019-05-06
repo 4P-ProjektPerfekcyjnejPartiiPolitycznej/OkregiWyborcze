@@ -17,9 +17,9 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status
 15|Obrona Narodowa|14|Nowy Sącz|10|Zatwierdzony
 16|Przedsiębiorczośc, Praca i Technologia|8|Zielona Góra|12|Zatwierdzony
 17|Rodzina i Polityka Społeczna|16|Płock|10|Zatwierdzony
-18|Rolnictwo 1|17|Radom|9|Zatwierdzony
-19|Rolnictwo 2|18|Siedlce|12|Zatwierdzony
-20|Rolnictwo 3|6|Lublin|15|Zatwierdzony
+18|Sadownictwo|17|Radom|9|Zatwierdzony
+19|Hodowla zwierząt|18|Siedlce|12|Zatwierdzony
+20|Rolnictwo|6|Lublin|15|Zatwierdzony
 21|Sport i Turystyka|32|Sosnowiec|9|Do zatwierdzenie
 22|Sprawy Wewnętrzne  i Administracja|21|Opole|12|Zatwierdzony
 23|Polityka Zagraniczna|22|Krosno|11|Zatwierdzony
