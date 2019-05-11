@@ -16,7 +16,7 @@ Zgodnie z regulaminem państwowej komisji wyborczej:
 a)         	liczba kandydatów — kobiet nie może być mniejsza niż 35 % liczby wszystkich kandydatów na liście,  
 b)         	liczba kandydatów — mężczyzn nie może być mniejsza niż 35 % liczby wszystkich kandydatów na liście.
 
-## System1
+## System 1
 
 Niech:  
 X=maksymalna ilość kandydatów, narzucona przez PKW  
@@ -25,7 +25,7 @@ Dla każdego okregu szukamy:
 Y= 1.1*X  (zaokrąglone w górę) kandydatów,  
 
 na przyklad z okręgu Radom wybieramy 9 posłów więc:  
-X=18
+X=18  
 Y=20
 
 
@@ -63,7 +63,7 @@ Jeśli ktoś jest kontrowersyjny i był na liście głównej to zostje z niej us
 
 Ostateczne miejsca na listach są układane alfabetycznie
 
-## System2
+## System 2
 
 System podobny do system 1. Tylko numerem 1 na każdej liście jest celebryta wspierający nasz partie. 
 Osoba ta po wyborach zrzeka się mandatu posła. Ma ona dwa cele:
@@ -73,7 +73,25 @@ CV czy listów motywacyjnych naszych kandydatów. W ich przypadku lepiej aby gł
 niż na Adamczyków czy Zielińskich ( ludzie często wybierają pierwsze i ostatnie rzeczy z listy). 
 Wtedy wybory będą bardziej uczciwe.
 
-## System3
+## System 3
+
+Dla każdego okręgu wyborczego może zgłosić się kilka organizacji pozarządowych zajmujących się jego specjalizacją.
+
+Miarą istotności organizacji jest ilość polubień na facebooku z dnia 01.05.2019.
+
+Każda z organizacji wybiera proporcjonalinie tyle kandydatów ile wynosi jej udział w zbiorowej sumie istotności, ale nie więcej niż połowę kandydatów.
+
+Na przykład:
+Z okręgu o specjalizacji  rolnictwo, z którego wybieramy 30 kandydatów  poniższe organizacje chcą wystawić swoich kandydatów:
+
+Nazwa organizacji | ilość polubień na fb | ilość kandydatów do zgłoszenia 
+-------------|-------------|-------------
+ Polski związek Kartofla | 5  000 | 12
+ Związek pszenicy         | 1  001  |3
+ Polski słodki cukier       | 15 000| 15
+
+
+## System 4
 Prosze zaproponuj swój jeśli obecne Ci się nie podobają
 
 
