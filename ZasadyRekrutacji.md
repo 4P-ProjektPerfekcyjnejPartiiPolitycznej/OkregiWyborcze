@@ -12,9 +12,9 @@ Założenia do systemu
 Zgodnie z regulaminem państwowej komisji wyborczej:
  liczba kandydatów na liście nie może być większa niż dwukrotność liczby posłów wybieranych w tym okręgu. Na przykład z okręgu Radom wybieramy 9 posłów, czyli maksymalna ilość kandydatów na liście wynosi 18.
 
-* Trzymamy się 35% parytetów:  
+* Trzymamy się 35% parytetów, narzuconych przez Państwową Komisję Wyborczą:  
 a)         	liczba kandydatów — kobiet nie może być mniejsza niż 35 % liczby wszystkich kandydatów na liście,  
-b)        	liczba kandydatów — mężczyzn nie może być mniejsza niż 35 % liczby wszystkich kandydatów na liście.
+b)         	liczba kandydatów — mężczyzn nie może być mniejsza niż 35 % liczby wszystkich kandydatów na liście.
 
 ## System1
 
