@@ -1,5 +1,5 @@
-ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status|Opis
--------------|-------------|-------------|-------------|-------------|-------------|-------------
+ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status |Opis
+-------------|-------------|-------------|-------------|-------------|-------------|:-------------
 1|Finanse|1|Legnica|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/01Finanse/OpisOkregu.md)
 2|ZUS|4|Bydgoszcz|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/02ZUS/OpisOkregu.md)
 3|Budżet Polski|3|Wrocław|14|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/03BudzetPolski/OpisOkregu.md)
