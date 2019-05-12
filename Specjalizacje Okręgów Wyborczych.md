@@ -36,7 +36,7 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status |Opis
 34|Ruch Drogowy|10|Piotrków Trybunalski|9|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/34RuchDrogowy/OpisOkregu.md)
 35|Zasady współbyca|34|Elbląg|8|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/35ZasadyWspolbyca/OpisOkregu.md)
 36|Media Publiczne|2|Wałbrzych|8|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/36MediaPubliczne/OpisOkregu.md)
-37|Spółki skarbu państwa|26|Gdynia|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/37SpólkiSkarbuPanstwa/OpisOkregu.md)
+37|Spółki skarbu państwa|26|Gdynia|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/37SpolkiSkarbuPanstwa/OpisOkregu.md)
 38|PKP|38|Piła|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/38PKP/OpisOkregu.md)
 39|x|35|Olsztyn|10|Do zatwierdzenia|
 40|x|28|Częstochowa|7|Do zatwierdzenia|
