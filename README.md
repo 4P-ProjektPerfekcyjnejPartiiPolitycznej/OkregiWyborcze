@@ -59,12 +59,14 @@ Przy edytowaniu tego pliku nie usuwamy zadań dodanych przez innych użytkownik�
 Jeśli ktoś poświęcił swój czas i dodał zadanie, to jest to dla niego ważne. Zadanie to zostanie przekazane dla przyszłych posłów i to oni będą musieli ocenić jego słuszność.
 
 ### Uzasadnić istotność okręgu
-W Polsce jest sport rzeczy do zrobienia, my chcemy się skupić na 41 najważniejszych dziedzinach.
+W Polsce jest sporo rzeczy do zrobienia, my chcemy się skupić na 41 najważniejszych dziedzinach.
 
 Każdy wybór specjalizacji okręgu powinien być uzasadniony.
-Uzasadnienie to będzie również prezentacją okręgu na facebooku.
+Uzasadnienie to będzie również prezentacją okręgu na facebooku.  
+Opis okręgów dodajemy w plikach:
 
-     OkregiWyborcze/Okregi/XXSpecjalizacja/OpisOkregu.md.  
+     OkregiWyborcze/Okregi/XXSpecjalizacja/OpisOkregu.md. 
+     
 na przykład dla okręgu ze specjalizacją Edukacja Narodowa uzupełniamy ten plik:  
      OkregiWyborcze/Okregi/07EdukacjNarodowa/OpisOkregu.md
 
