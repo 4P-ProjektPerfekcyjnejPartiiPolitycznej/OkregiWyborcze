@@ -38,6 +38,6 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status |Opis
 36|Media Publiczne|2|Wałbrzych|8|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/36MediaPubliczne/OpisOkregu.md)
 37|Spółki skarbu państwa|26|Gdynia|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/37SpolkiSkarbuPanstwa/OpisOkregu.md)
 38|PKP|38|Piła|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/38PKP/OpisOkregu.md)
-39|x|35|Olsztyn|10|Do zatwierdzenia|
+39|Osoby Niepełnosprawne|35|Olsztyn|10|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/39OsobyNiepelnosprawne/OpisOkregu.md)
 40|x|28|Częstochowa|7|Do zatwierdzenia|
 41|x|41|Szczecin|12|Do zatwierdzenia|
