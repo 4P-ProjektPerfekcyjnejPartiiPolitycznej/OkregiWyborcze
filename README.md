@@ -10,8 +10,7 @@ W tym celu musimy:
 Robimy to analogicznie do wypisywania wymagań dla osób kandydujących do konkretnej pracy. W tym celu uzupełeniamy poniższy plik: 
 
      OkregiWyborcze/Okregi/XXSpecjalizacja/Wymaganie dla Kandydatów.md.
-na przykład dla okręgu ze specjalizacją Edukacja Narodowa uzupełniamy ten plik:
-
+na przykład dla okręgu ze specjalizacją Edukacja Narodowa uzupełniamy ten plik:  
      OkregiWyborcze/Okregi/07EdukacjNarodowa/Wymaganie dla Kandydatów.md
 
 
@@ -21,8 +20,7 @@ Dlatego potrzebna jest profesjonalna agencja rekrutacyjna, albo organizacja poza
 
      OkregiWyborcze/Okregi/XXSpecjalizacja/Rekrutacja.md
      
-na przykład:
-
+na przykład:  
      OkregiWyborcze/Okregi/07EdukacjNarodowa/Rekrutacja.md
 
 ### Znaleźć Eksperta technicznego:
@@ -32,8 +30,7 @@ Robimy to w pliku:
 
       OkregiWyborcze/Okregi/XXSpecjalizacja/Rekrutacja.md 
       
-na przykład:
-
+na przykład:  
      OkregiWyborcze/Okregi/07EdukacjNarodowa/Rekrutacja.md
 
 
@@ -43,8 +40,7 @@ Pytania do ankiety wpisujemy w tym pliku:
 
       OkregiWyborcze/Okregi/XXSpecjalizacja/Ankieta.md
       
-na przykład:
-
+na przykład:  
      OkregiWyborcze/Okregi/07EdukacjNarodowa/Ankieta.md
 
 
@@ -56,12 +52,21 @@ Propozycje zadań podajemy w pliku:
 
      OkregiWyborcze/Okregi/XXSpecjalizacja/Zadania.md
      
-na przykład:
-
+na przykład:  
     OkregiWyborcze/Okregi/07EdukacjNarodowa/Zadania.md
    
 Przy edytowaniu tego pliku nie usuwamy zadań dodanych przez innych użytkowników.
 Jeśli ktoś poświęcił swój czas i dodał zadanie, to jest to dla niego ważne. Zadanie to zostanie przekazane dla przyszłych posłów i to oni będą musieli ocenić jego słuszność.
+
+### Uzasadnić istotność okręgu
+W Polsce jest sport rzeczy do zrobienia, my chcemy się skupić na 41 najważniejszych dziedzinach.
+
+Każdy wybór specjalizacji okręgu powinien być uzasadniony.
+Uzasadnienie to będzie również prezentacją okręgu na facebooku.
+
+     OkregiWyborcze/Okregi/XXSpecjalizacja/OpisOkregu.md.  
+na przykład dla okręgu ze specjalizacją Edukacja Narodowa uzupełniamy ten plik:  
+     OkregiWyborcze/Okregi/07EdukacjNarodowa/OpisOkregu.md
 
  
 
