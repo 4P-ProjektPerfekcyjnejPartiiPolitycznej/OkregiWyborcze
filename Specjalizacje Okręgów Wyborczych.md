@@ -1,43 +1,43 @@
-ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status
--------------|-------------|-------------|-------------|-------------|-------------
-1|Finanse |1|Legnica|12|Zatwierdzony
-2|ZUS|4|Bydgoszcz|12|Zatwierdzony
-3|Budżet Polski|3|Wrocław|14|Zatwierdzony
-4|Podatki|36|Kalisz|12|Zatwierdzony
-5|VAT|5|Toruń|13|Zatwierdzony
-6|Cyfryzacja|39|Poznań|10|Zatwierdzony
-7|Edukacja Narodowa|19|Warszawa Miasto|20|Zatwierdzony
-8|Energetyka|7|Chełm|12|Zatwierdzony
-9|Górnictwo|31|Katowice|12|Zatwierdzony
-10|Infrastruktura|9|Łódź|10|Zatwierdzony
-11|Inwestycja i Rozwoju|33|Kielce|16|Zatwierdzony
-12|Kultura i Dziedzictwo Narodowe|11|Sieradz|12|Zatwierdzony
-13|Nauka i Szkolnictwo Wyższe|12|Chrzanów|8|Zatwierdzony
-14|Nauka i Szkolnictwo Wyższe-Kierunki Techniczne|13|Kraków|14|Zatwierdzony
-15|Obrona Narodowa|14|Nowy Sącz|10|Zatwierdzony
-16|Przedsiębiorczośc, Praca i Technologia|8|Zielona Góra|12|Zatwierdzony
-17|Rodzina i Polityka Społeczna|16|Płock|10|Zatwierdzony
-18|Sadownictwo|17|Radom|9|Zatwierdzony
-19|Hodowla zwierząt|18|Siedlce|12|Zatwierdzony
-20|Rolnictwo|6|Lublin|15|Zatwierdzony
-21|Sport i Turystyka|32|Sosnowiec|9|Do zatwierdzenie
-22|Sprawy Wewnętrzne  i Administracja|21|Opole|12|Zatwierdzony
-23|Polityka Zagraniczna|22|Krosno|11|Zatwierdzony
-24|Sądownictwo|23|Rzeszów|15|Zatwierdzony
-25|Przestrzegane Prawa|15|Tarnów|9|Do zatwierdzenie
-26|Środowisko|37|Konin|9|Zatwierdzony
-27|Gospodarka Morska Żegluga Śródlądowa|40|Koszalin|8|Do zatwierdzenie
-28|Innowacja w służbie zdrowia|27|Bielsko-Biała|9|Do zatwierdzenie
-29|NFZ|25|Gdańsk|12|Zatwierdzony
-30|Profilaktyka Leczenie|29|Gliwice|9|Do zatwierdzenie
-31|Pracownicy służby zdrowia|24|Białystok|14|Do zatwierdzenie
-32|SMOG|30|Rybnik|9|Zatwierdzony
-33|Ustawa reprywatyzacyjna|20|Warszawa Powiat|12|Do zatwierdzenie
-34|Ruch Drogowy|10|Piotrków Trybunalski|9|Zatwierdzony
-35|Zasady współbyca|34|Elbląg|8|Do zatwierdzenie
-36|Media Publiczne|2|Wałbrzych|8|Zatwierdzony
-37|Spółki skarbu państwa|26|Gdynia|14|Zatwierdzony
-38|x|38|Piła|9|Do zatwierdzenie
-39|x|35|Olsztyn|10|Do zatwierdzenie
-40|x|28|Częstochowa|7|Do zatwierdzenie
-41|x|41|Szczecin|12|Do zatwierdzenie
+ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status|Opis
+-------------|-------------|-------------|-------------|-------------|-------------|-------------
+1|Finanse|1|Legnica|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/01Finanse/OpisOkregu.md)
+2|ZUS|4|Bydgoszcz|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/02ZUS/OpisOkregu.md)
+3|Budżet Polski|3|Wrocław|14|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/03BudzetPolski/OpisOkregu.md)
+4|Podatki|36|Kalisz|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/04Podatki/OpisOkregu.md)
+5|VAT|5|Toruń|13|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/05VAT/OpisOkregu.md)
+6|Cyfryzacja|39|Poznań|10|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/06Cyfryzacja/OpisOkregu.md)
+7|Edukacja Narodowa|19|Warszawa Miasto|20|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/07EdukacjaNarodowa/OpisOkregu.md)
+8|Energetyka|7|Chełm|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/08Energetyka/OpisOkregu.md)
+9|Górnictwo|31|Katowice|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/09Gornictwo/OpisOkregu.md)
+10|Infrastruktura|9|Łódź|10|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/10Infrastruktura/OpisOkregu.md)
+11|Inwestycja i Rozwoju|33|Kielce|16|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/11InwestycjaRozwoju/OpisOkregu.md)
+12|Kultura i Dziedzictwo Narodowe|11|Sieradz|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/12KulturaDziedzictwoNarodowe/OpisOkregu.md)
+13|Nauka i Szkolnictwo Wyższe|12|Chrzanów|8|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/13NaukaSzkolnictwoWyzsze/OpisOkregu.md)
+14|Nauka i Szkolnictwo Wyższe-Kierunki Techniczne|13|Kraków|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/14NaukaSzkolnictwoWyzsze-KierunkiTechniczne/OpisOkregu.md)
+15|Obrona Narodowa|14|Nowy Sącz|10|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/15ObronaNarodowa/OpisOkregu.md)
+16|Przedsiębiorczośc, Praca i Technologia|8|Zielona Góra|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/16PrzedsiębiorczoscPracaTechnologia/OpisOkregu.md)
+17|Rodzina i Polityka Społeczna|16|Płock|10|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/17RodzinaPolitykaSpoleczna/OpisOkregu.md)
+18|Sadownictwo|17|Radom|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/18Sadownictwo/OpisOkregu.md)
+19|Hodowla zwierząt|18|Siedlce|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/19Hodowlazwierzat/OpisOkregu.md)
+20|Rolnictwo|6|Lublin|15|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/20Rolnictwo/OpisOkregu.md)
+21|Sport i Turystyka|32|Sosnowiec|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/21SportTurystyka/OpisOkregu.md)
+22|Sprawy Wewnętrzne i Administracja|21|Opole|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/22SprawyWewnetrzneAdministracja/OpisOkregu.md)
+23|Polityka Zagraniczna|22|Krosno|11|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/23PolitykaZagraniczna/OpisOkregu.md)
+24|Sądownictwo|23|Rzeszów|15|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/24Sądownictwo/OpisOkregu.md)
+25|Przestrzegane Prawa|15|Tarnów|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/25PrzestrzeganePrawa/OpisOkregu.md)
+26|Środowisko|37|Konin|9|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/26Środowisko/OpisOkregu.md)
+27|Gospodarka Morska Żegluga Śródlądowa|40|Koszalin|8|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/27GospodarkaMorskaZeglugaSroladowa/OpisOkregu.md)
+28|Innowacja w służbie zdrowia|27|Bielsko-Biała|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/28InnowacjaWSluzbieZdrowia/OpisOkregu.md)
+29|NFZ|25|Gdańsk|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/29NFZ/OpisOkregu.md)
+30|Profilaktyka Leczenie|29|Gliwice|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/30ProfilaktykaLeczenie/OpisOkregu.md)
+31|Pracownicy służby zdrowia|24|Białystok|14|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/31PracownicySluzbyZdrowia/OpisOkregu.md)
+32|SMOG|30|Rybnik|9|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/32SMOG/OpisOkregu.md)
+33|Ustawa reprywatyzacyjna|20|Warszawa Powiat|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/33Ustawareprywatyzacyjna/OpisOkregu.md)
+34|Ruch Drogowy|10|Piotrków Trybunalski|9|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/34RuchDrogowy/OpisOkregu.md)
+35|Zasady współbyca|34|Elbląg|8|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/35ZasadyWspolbyca/OpisOkregu.md)
+36|Media Publiczne|2|Wałbrzych|8|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/36MediaPubliczne/OpisOkregu.md)
+37|Spółki skarbu państwa|26|Gdynia|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/37Spółki skarbu państwa/OpisOkregu.md)
+38|PKP|38|Piła|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/38PKP/OpisOkregu.md)
+39|x|35|Olsztyn|10|Do zatwierdzenia|
+40|x|28|Częstochowa|7|Do zatwierdzenia|
+41|x|41|Szczecin|12|Do zatwierdzenia|

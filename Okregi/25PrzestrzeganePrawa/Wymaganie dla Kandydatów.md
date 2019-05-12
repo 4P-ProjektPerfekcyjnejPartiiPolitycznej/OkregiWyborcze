@@ -11,6 +11,6 @@ Osoby chętne do kandydowania z tej specjalizacji powinny spełniać poniższe w
 * bardzo dobrej organizacji pracy własnej i współpracy z innymi,
 * biegłej znajomości jezyka angielskiego lub niemieckiego,
 
-**Oczekiwane:**
+**Mile widziane:**
 * wykształcenia wyższego, powiązane z tematkyką okręgu,
 * znajomość statystyki, baz danych.
