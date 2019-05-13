@@ -13,7 +13,7 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status |Opis
 11|Inwestycja i Rozwoju|33|Kielce|16|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/11InwestycjaRozwoju/OpisOkregu.md)
 12|Kultura i Dziedzictwo Narodowe|11|Sieradz|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/12KulturaDziedzictwoNarodowe/OpisOkregu.md)
 13|Nauka i Szkolnictwo Wyższe|12|Chrzanów|8|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/13NaukaSzkolnictwoWyzsze/OpisOkregu.md)
-14|Nauka i Szkolnictwo Wyższe-Kierunki Techniczne|13|Kraków|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/14NaukaSzkolnictwoWyzsze-KierunkiTechniczne/OpisOkregu.md)
+14|Nauka i Szkolnictwo Wyższe-Kierunki Techniczne|13|Kraków|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/14NaukaSzkolnictwoWyzszeKierunkiTechniczne/OpisOkregu.md)
 15|Obrona Narodowa|14|Nowy Sącz|10|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/15ObronaNarodowa/OpisOkregu.md)
 16|Przedsiębiorczośc, Praca i Technologia|8|Zielona Góra|12|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/16PrzedsiębiorczoscPracaTechnologia/OpisOkregu.md)
 17|Rodzina i Polityka Społeczna|16|Płock|10|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/17RodzinaPolitykaSpoleczna/OpisOkregu.md)
