@@ -39,6 +39,6 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status|Opis
 37|Spółki skarbu państwa|26|Gdynia|14|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/37Spółki skarbu państwa/OpisOkregu.md)
 38|PKP|38|Piła|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/38PKP/OpisOkregu.md)
 39|Osoby Niepełnosprawne|35|Olsztyn|10|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/39OsobyNiepelnosprawne/OpisOkregu.md)
-40|Zadania Ad-hoc|28|Częstochowa|7|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/40ZadaniaAdHoc/OpisOkręgu.md)
-41|Zadania Ad-hoc|41|Szczecin|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/40ZadaniaAdHoc/OpisOkręgu.md)
+40|Zadania Ad-hoc|28|Częstochowa|7|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/40ZadaniaAdHoc/OpisOkregu.md)
+41|Zadania Ad-hoc|41|Szczecin|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/40ZadaniaAdHoc/OpisOkregu.md)
 
