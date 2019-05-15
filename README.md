@@ -16,7 +16,7 @@ na przykład dla okręgu ze specjalizacją Edukacja Narodowa uzupełniamy ten pl
 
 ### Znaleźć Rekrutera.
 Potrzebna jest werefikuje czy kandydaci rzeczywiście spełniaja wymagania. Proces ten musi być apolityczny i sprawiedliwy.
-Dlatego potrzebna jest profesjonalna agencja rekrutacyjna, albo organizacja pozarządowa  zajmująca sią tematyką okręgu. Rekruter nie ma prawa oceniać poglądów kandydata, tylko jego wiedzę. To czy jest lewicowy czy prawicowy nie jest brane pod uwagę. Najlepiej jeśli będziemy mieli minimum dwie niezależne organizacje na jeden okręg wyborczy.Robimy to w pliku:
+Dlatego potrzebna jest profesjonalna agencja rekrutacyjna, albo organizacja pozarządowa  zajmująca sią tematyką okręgu. Rekruter nie ma prawa oceniać poglądów kandydata, tylko jego wiedzę. To czy jest lewicowy czy prawicowy nie jest brane pod uwagę. Najlepiej jeśli będziemy mieli minimum dwie niezależne organizacje na jeden okręg wyborczy. Robimy to w pliku:
 
      OkregiWyborcze/Okregi/XXSpecjalizacja/Rekrutacja.md
      
