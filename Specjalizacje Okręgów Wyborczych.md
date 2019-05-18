@@ -32,7 +32,7 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status |Opis
 30|Profilaktyka Leczenie|29|Gliwice|9|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/30ProfilaktykaLeczenie/OpisOkregu.md)
 31|Pracownicy służby zdrowia|24|Białystok|14|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/31PracownicySluzbyZdrowia/OpisOkregu.md)
 32|SMOG|30|Rybnik|9|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/32SMOG/OpisOkregu.md)
-33|Mieszkalnictwo, Ustawa reprywatyzacyjna|20|Warszawa Powiat|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/33Ustawareprywatyzacyjna/OpisOkregu.md)
+33|Mieszkalnictwo, Ustawa reprywatyzacyjna|20|Warszawa Powiat|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/33MieszkalnictwoUstawaReprywatyzacyjna/OpisOkregu.md)
 34|Ruch Drogowy|10|Piotrków Trybunalski|9|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/34RuchDrogowy/OpisOkregu.md)
 35|Zasady współbyca|34|Elbląg|8|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/35ZasadyWspolbyca/OpisOkregu.md)
 36|Media Publiczne|2|Wałbrzych|8|Zatwierdzony|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/36MediaPubliczne/OpisOkregu.md)
