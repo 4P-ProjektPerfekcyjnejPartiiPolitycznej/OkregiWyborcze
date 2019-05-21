@@ -20,7 +20,7 @@ b)         	liczba kandydatów — mężczyzn nie może być mniejsza niż 35 % 
 
 Niech:  
 X=maksymalna ilość kandydatów, narzucona przez PKW  
-b=współczynnik dzbana równy 0.1  
+b=współczynnik nieodpowiedniego kandydata równy 0.1  
 Dla każdego okregu szukamy:  
 Y= 1.1*X  (zaokrąglone w górę) kandydatów,  
 
@@ -30,9 +30,9 @@ Y=20
 
 
 Objaśnienie:  
-współczynki dzbana - pln21 to nie miejsce dla chamów, ekstremistów, nazistów itp.
+współczynnik nieodpowiedniego kandydata  - pln21 to nie miejsce dla chamów, ekstremistów, nazistów itp.
 Bycie ekspertem nie jest równoważne z byciem dobrym człowiekiem.
-Dlatego nawet jeśli osoba przejdzie etap rekrutacji merytorycznej, może okazać się dzbanem.
+Dlatego nawet jeśli osoba przejdzie etap rekrutacji merytorycznej, może okazać się nieodpowiednim kandydatem.
 
 Etap 1
 
@@ -63,17 +63,8 @@ Jeśli ktoś jest kontrowersyjny i był na liście głównej to zostje z niej us
 
 Ostateczne miejsca na listach są układane alfabetycznie
 
+
 ## System 2
-
-System podobny do system 1. Tylko numerem 1 na każdej liście jest celebryta wspierający nasz partie. 
-Osoba ta po wyborach zrzeka się mandatu posła. Ma ona dwa cele:
-* przyciąga wyborców którzy głosują na kogoś tylko dlatego, że jest sławny
-* będą wyborcy którym podoba się idea naszej partii, ale nie będą mieli czasu na przeczytanie 
-CV czy listów motywacyjnych naszych kandydatów. W ich przypadku lepiej aby głosowali na słupy 
-niż na Adamczyków czy Zielińskich ( ludzie często wybierają pierwsze i ostatnie rzeczy z listy). 
-Wtedy wybory będą bardziej uczciwe.
-
-## System 3
 
 Dla każdego okręgu wyborczego może zgłosić się kilka organizacji pozarządowych zajmujących się jego specjalizacją.
 
@@ -91,7 +82,7 @@ Nazwa organizacji | ilość polubień na fb | ilość kandydatów do zgłoszenia
  Polski słodki cukier       | 15 000| 15
 
 
-## System 4
+## System 3
 Prosze zaproponuj swój jeśli obecne Ci się nie podobają
 
 
