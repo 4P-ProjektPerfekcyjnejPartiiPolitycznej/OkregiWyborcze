@@ -42,3 +42,9 @@ ID|Specjalizacja|ID_PKW|Nazwa_okręgu_PKW|Liczba Mandatów |Status |Opis
 40|Zadania Ad-hoc|28|Częstochowa|7|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/40ZadaniaAdHoc/OpisOkregu.md)
 41|Zadania Ad-hoc|41|Szczecin|12|Do zatwierdzenia|[Link](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Okregi/40ZadaniaAdHoc/OpisOkregu.md)
 
+
+
+### Status:
+Do Zatwierdzenia - Specjalizacja jest podana jako propozycja;  
+Zatwierdzony - Specjalizacja tego typu na pewno będzi przypisana do danego okręgu;  
+Ukończony - Wszystkie dokumenty są uzupełnione dla danego okręgu.  
