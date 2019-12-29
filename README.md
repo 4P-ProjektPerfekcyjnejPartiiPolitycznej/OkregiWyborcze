@@ -2,7 +2,7 @@
 
 
 Każdy okręg wyborczy ma konkretną specjalizacja, ich lista dostepna jest w pliku: [Specjalizacje Okręgów Wyborczych.md](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md). 
-Zadaniem tego projektu jest stworzenie procesu rekrutacji kandydatów do sejmu.  
+Zadaniem tego projektu jest uzgodnienie 41 najważniejszych dziedzin z których potrzebni są eksperci w sejmie, oraz stworzenie procesu rekrutacji kandydatów do sejmu.  
 W tym celu musimy:
 
 ### Ustanowić wymagania dla kandydatów z poszczególnej specjalizacji. 
