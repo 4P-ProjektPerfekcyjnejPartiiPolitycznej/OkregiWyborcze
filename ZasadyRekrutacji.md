@@ -83,9 +83,18 @@ Nazwa organizacji | ilość polubień na fb | ilość kandydatów do zgłoszenia
 
 
 ## System 3
+
+Dla każdego okręgu szukamy jednej agencji rekrutacyjnej oraz minimum dwóch osób lub organizacji o nieposzlakowanej opinii zajmującą się daną specjalizacją i mającą duży autorytet.
+
+Każda z tych jednostek dostaje możliwość wystawienie równej liczby kandydatów do listy pln21. 
+
+Agencje rekrutacyjne robią to na podstawie nadesłanych CV. 
+
+Mianowane osoby/organizacje mają totalną swobodę. Mogą  wykorzystać nadesłane CV albo na własną rękę znaleźć odpowiednich kandydatów.
+
+
+## System 4
 Prosze zaproponuj swój jeśli obecne Ci się nie podobają
-
-
 
 
 
