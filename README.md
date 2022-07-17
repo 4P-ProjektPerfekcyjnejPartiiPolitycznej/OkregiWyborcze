@@ -1,7 +1,7 @@
 # OkregiWyborcze
 
 
-Każdy okręg wyborczy ma konkretną specjalizacja, ich lista dostepna jest w pliku: [Specjalizacje Okręgów Wyborczych.md](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md).
+W tym projekcie każdy z 41 okręgów wyborczych ma jedną konkretną specjalizację. Dzięki temu, już przed wyborami, możemy zamodelować ile specjalistów i z jakiej dziedziny będzie w sejmie. Wyborca ma jasne kryterium wyboru, może ocenić który kandydat ma najlepsze pomysły na rozwiązanie problemów z tej jednej specjalizacji.
 
 Aktualne, nie ostateczne specjalizacje okręgów:
 
@@ -50,14 +50,14 @@ Aktualne, nie ostateczne specjalizacje okręgów:
 </tr>
 <tr>
 <td>6</td>
-<td>Cyfryzacja  </td>
+<td>Cyfryzacja</td>
 <td>39</td>
 <td>Poznań</td>
 <td>10</td>
 </tr>
 </tbody></table>
 <details>
-   <summary>pokarz pozostałe!</summary>
+   <summary>pokaż pozostałe!</summary>
 <table class="table table-bordered table-hover table-condensed">
 <tbody><tr>
 <td width="10%">7</td>
